@@ -14,4 +14,4 @@
 
 ### 
 
-<img src="./assets/images/ieeecsufjfw.png" width="50%"> 
+<img src="./assets/images/ieeecsufjfw.png" width="30%"> 
