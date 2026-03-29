@@ -2,8 +2,8 @@
 
 \---
 
-* I'm currently a infrastructure intern, IEEE Computer Society Student Branch chapter chair and volunteer at a education-oriented robotics project at the Part Project in LiFA(Applied Physics Laboratory) of the Federal University of Juiz de Fora.
-* Atualmente sou estagiário de infraestrutura, presidente do capítulo estudantil da IEEE Computer Society na Universidade Federal de Juiz de Fora, e voluntário em um projeto ligado à robótica para educação no LiFA(Laboratório de Física Aplicada) da Universidade Federal de Juiz de Fora
+* I'm currently a infrastructure intern, IEEE Computer Society Student Branch chapter chair and volunteer at the education-oriented PART(Robotics and Technology Applications Project) in LiFA(Applied Physics Laboratory) of the Federal University of Juiz de Fora.
+* Atualmente sou estagiário de infraestrutura, presidente do capítulo estudantil da IEEE Computer Society na Universidade Federal de Juiz de Fora, e voluntário no PART(Projeto de Aplicação em Robótica e Tecnologia) orientado à educação no LiFA(Laboratório de Física Aplicada) da Universidade Federal de Juiz de Fora.
 
 ## My current projects
 
