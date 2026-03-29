@@ -9,16 +9,16 @@
 * [Doom proof of concept port for the Renesas Synergy S7G2 MCU](https://github.com/CSIEEEUFJF/DoomRenesas)
 * [TwitterAPI.io twitter search scraping bot](https://github.com/rafaellnick/TwitterBasicScraping)
 
-### Links
+## Links
 
 * [Universidade Federal de Juiz de Fora IEEE Student Branch](https://instagram.com/ieeeufjf) </br>
 * [PART - Projeto de Aplicação em Robótica e Tecnologia](https://instagram.com/projeto_part) 
 
-### Contact information
+## Contact information
 
 * [Email](mailto:rafael.nick@estudante.ufjf.br)
 
-### Location:
+## Location:
 
 * I'm mostly located at the Universidade Federal de Juiz de Fora IEEE Student Branch during my free time. Please try to contact me to schedule a online or in-person meeting.
 
