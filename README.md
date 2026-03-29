@@ -14,4 +14,4 @@
 
 ### 
 
-<p align: "center"> ![IEEE Computer Society Universidade Federal de Juiz de Fora Student Branch Chapter](./assets/images/ieeecsufjfbk.png)</p>
+<img src="./assets/images/ieeecsufjfw.png" width="50%"> 
