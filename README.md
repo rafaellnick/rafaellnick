@@ -27,7 +27,7 @@
 
 ## Location:
 
-* I'm mostly located at the Universidade Federal de Juiz de Fora IEEE Student Branch during my free time.
+* I'm mostly located at the [Universidade Federal de Juiz de Fora IEEE Student Branch](https://maps.app.goo.gl/7xG9RT2LoKHwGLq77) during my free time.
 * Please try to contact me to schedule a online or in-person meeting.
 
 ![Universidade Federal de Juiz de Fora IEEE Student Branch Chapter location](./assets/images/ramo.png)
