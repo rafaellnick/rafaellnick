@@ -5,7 +5,7 @@
 * I'm currently a infrastructure intern, IEEE Computer Society Student Branch chapter chair and volunteer at the education-oriented PART(Robotics and Technology Applications Project) in LiFA(Applied Physics Laboratory) of the Federal University of Juiz de Fora.
 * I'm a Pernambuco native who moved to Belo Horizonte at a young age. 
 * I am a Clube Atlético Mineiro fan! </br> </br>
-* Atualmente sou estagiário de infraestrutura, presidente do capítulo estudantil da IEEE Computer Society na Universidade Federal de Juiz de Fora, e voluntário no PART(Projeto de Aplicação em Robótica e Tecnologia) orientado à educação no LiFA(Laboratório de Física Aplicada) da Universidade Federal de Juiz de Fora.
+* Atualmente sou estagiário de infraestrutura, presidente do capítulo estudantil da IEEE Computer Society na Universidade Federal de Juiz de Fora, e voluntário no PART(Projeto de Aplicação em Robótica e Tecnologia), um projeto orientado à educação no LiFA(Laboratório de Física Aplicada) da Universidade Federal de Juiz de Fora.
 * Sou nascido em Pernambuco, mas me mudei para Belo Horizonte ainda quando criança.
 * Sou torcedor do Clube Atlético Mineiro!
 
