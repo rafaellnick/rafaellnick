@@ -18,6 +18,7 @@
 ## Links
 
 * [Universidade Federal de Juiz de Fora IEEE Student Branch](https://instagram.com/ieeeufjf) </br>
+* [IEEE Computer Society Universidade Federal de Juiz de Fora Student Branch Chapter](https://github.com/CSIEEEUFJF) </br>
 * [PART - Projeto de Aplicação em Robótica e Tecnologia](https://instagram.com/projeto_part) </br>
 * [LinkedIn](https://linkedin.com/in/rafaellnick)
 
