@@ -24,7 +24,7 @@
 
 ## Contact information
 
-* [Email](mailto:rafael.nick@estudante.ufjf.br)
+* [Email](mailto:rafael.nick@computer.org)
 
 ## Location:
 
